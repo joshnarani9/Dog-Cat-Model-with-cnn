@@ -1,1 +1,1 @@
-# Dog-Cat-Model-with-cnn
+# classification on dog and cat images using CNN model
